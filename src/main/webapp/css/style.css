@@ -1,0 +1,12 @@
+table{
+	width: 80%;
+	text-align: center;
+	border-collapse: collapse;
+}
+a{
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
